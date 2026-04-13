@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Gate",
+        "description": "College Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.175700, 17.253300]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canteen",
+        "description": "Student Eating Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.175500, 17.253100]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Library",
+        "description": "Study & Reading Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.175650, 17.253250]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking",
+        "description": "Vehicle Parking Zone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.175750, 17.253050]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admin Office",
+        "description": "Office & Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.175600, 17.253200]
+      }
+    }
+  ]
+}
