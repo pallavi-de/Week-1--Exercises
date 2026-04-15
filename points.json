@@ -1,0 +1,10 @@
+[
+    { "name": "Shivajinagar", "lat": 18.5308, "lng": 73.8475 },
+    { "name": "Kothrud", "lat": 18.5074, "lng": 73.8077 },
+    { "name": "Hinjewadi", "lat": 18.5912, "lng": 73.7389 },
+    { "name": "Wakad", "lat": 18.5995, "lng": 73.7636 },
+    { "name": "Hadapsar", "lat": 18.5089, "lng": 73.9260 },
+    { "name": "Magarpatta", "lat": 18.5160, "lng": 73.9270 },
+    { "name": "Baner", "lat": 18.5590, "lng": 73.7868 },
+    { "name": "Aundh", "lat": 18.5580, "lng": 73.8070 }
+]
